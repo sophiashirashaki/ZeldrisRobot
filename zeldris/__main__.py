@@ -100,7 +100,7 @@ A modular group management bot with useful features. [ㅤ](https://telegra.ph/fi
 ◑ `{}` *Users, across* `{}` *chats.*
 
 Any issues or need help related to me?
-Join our official group [IDNCoderX](https://t.me/IDNCoderX).
+Contact My Onee-Chan [Anko Loli](https://t.me/erosei_1).
 Click help button to know my commands!
 """
 
@@ -112,13 +112,13 @@ buttons = [
         ),
         InlineKeyboardButton(
             text="Updates 📢",
-            url="https://t.me/IDNCoder",
+            url="https://t.me/projectsupdates",
         ),
     ],
     [
         InlineKeyboardButton(
             text="Add Zeldris to Your Group 👥",
-            url="t.me/ZeldrisRobot?startgroup=true",
+            url="t.me/aliciapro_bot?startgroup=true",
         ),
     ],
 ]
