@@ -165,10 +165,16 @@
       "required": false,
       "value": ""
     },
-    "REDIS_URL": {
-      "description": "Take it from redislabs.com and the format should be redis://username:password@cluster/",
-      "required": "True",
-      "value": ""
+    "MONGO_DB_URI": {
+
+         "description": "Required for database connections.",
+
+         "required": false,
+
+         "value": ""
+
+
+ 
     }
   }
 }
