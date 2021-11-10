@@ -264,11 +264,11 @@ def start(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="☎️ Support",
-                            url="https://t.me/IDNCoderX",
+                            url="https://t.me/Alvin_Image_Editor_Group",
                         ),
                         InlineKeyboardButton(
                             text="Updates 📡",
-                            url="https://t.me/IDNCoder",
+                            url="https://t.me/projectsupdates",
                         ),
                     ]
                 ]
