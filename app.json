@@ -172,9 +172,14 @@
          "required": false,
 
          "value": ""
-
-
- 
+    },
+    "REDIS_URL": {
+      "description": "Take it from redislabs.com and the format should be redis://username:password@cluster/",
+      "required": "True",
+      "value": ""
     }
   }
 }
+
+ 
+ 
